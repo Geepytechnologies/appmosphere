@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "1063879023661",
+    "project_id": "appmosphere-3e319",
+    "storage_bucket": "appmosphere-3e319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063879023661:android:f00dfe6ff2d6b3583c2ca4",
+        "android_client_info": {
+          "package_name": "com.appmosphere.appmosphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063879023661-1tuuas37d8s3rkpqbta1tfl5v13369gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmosphere.appmosphere",
+            "certificate_hash": "b08bc5d92f20d740e82a3afc51367cf811be32c6"
+          }
+        },
+        {
+          "client_id": "1063879023661-c5medpsgb3tlb81guqh9hv0d0hpebpvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appmosphere.appmosphere",
+            "certificate_hash": "fbbd20876665d88f418fcd3b0efa9a5a653dcb2f"
+          }
+        },
+        {
+          "client_id": "1063879023661-sjrdjfa3ioqm375h2ag2g7pr3dhtoj0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANmJvyI-fjrJepiM9MOIl0KkXXeKrH4cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063879023661-sjrdjfa3ioqm375h2ag2g7pr3dhtoj0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063879023661:android:4013b575ba8fe4343c2ca4",
+        "android_client_info": {
+          "package_name": "com.geepytech.appmosphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063879023661-jpafruft1586gegufls4f9uh04dmomaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geepytech.appmosphere",
+            "certificate_hash": "ee4fa6e297797e7b048e30d150a0d9dc29ce051a"
+          }
+        },
+        {
+          "client_id": "1063879023661-sjrdjfa3ioqm375h2ag2g7pr3dhtoj0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANmJvyI-fjrJepiM9MOIl0KkXXeKrH4cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063879023661-sjrdjfa3ioqm375h2ag2g7pr3dhtoj0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
